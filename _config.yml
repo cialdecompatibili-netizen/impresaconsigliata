@@ -1,17 +1,17 @@
 related_posts: 3
-title: ScalaHost
+title: ImpresaConsigliata
 baseurl: "/impresaconsigliata"
 url: "https://cialdecompatibili-netizen.github.io"
 email: ""
-description: "ScalaHost: server di gioco, VPS e hosting a canone mensile. Minecraft, Palworld, Rust, ARK, FiveM, WordPress gestito. Pre-ordina senza pagamento anticipato."
-footer_text: "&copy; 2026 ScalaHost"
+description: "ImpresaConsigliata: elenco di imprese consigliate con recensioni verificate e richieste di preventivo gratuite. Per le imprese: schede in evidenza e pacchetti di richieste."
+footer_text: "&copy; 2026 ImpresaConsigliata"
 minimal_mistakes_skin: default
 search: true
 
 # SEO globale
 author:
-  name: "ScalaHost"
-  bio: "Server di gioco, VPS e hosting a canone mensile. Pre-ordina il tuo piano."
+  name: "ImpresaConsigliata"
+  bio: "Imprese consigliate e preventivi gratuiti. Pre-ordina il tuo piano."
   links:
     - label: "Scrivici"
       icon: "fas fa-fw fa-envelope"

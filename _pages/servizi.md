@@ -3,8 +3,8 @@ layout: single
 title: "Piani"
 permalink: /servizi/
 author_profile: false
-seo_title: "Piani server di gioco, VPS e hosting | ScalaHost"
-seo_description: "Tutti i piani ScalaHost: server Minecraft, Palworld, Rust, ARK, FiveM, VPS Linux, WordPress gestito e server dedicati."
+seo_title: "Schede, richieste di preventivo ed extra | ImpresaConsigliata"
+seo_description: "Tutti i piani ImpresaConsigliata: schede in evidenza, richieste di preventivo, recensioni, sito vetrina e foto."
 classes: wide
 ---
 
